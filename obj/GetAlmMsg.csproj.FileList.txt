@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GetAlmMsg.Form1.resources
+obj\Debug\GetAlmMsg.Properties.Resources.resources
+obj\Debug\GetAlmMsg.csproj.GenerateResource.Cache
+bin\Debug\GetAlmMsg.exe
+bin\Debug\GetAlmMsg.pdb
+obj\Debug\GetAlmMsg.exe
+obj\Debug\GetAlmMsg.pdb

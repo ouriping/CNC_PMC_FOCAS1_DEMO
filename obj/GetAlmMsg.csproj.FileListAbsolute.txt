@@ -1,0 +1,16 @@
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.exe
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.pdb
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\bin\Debug\GetAlmMsg.exe
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\bin\Debug\GetAlmMsg.pdb
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.Form1.resources
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.Properties.Resources.resources
+C:\Documents and Settings\AWEA\桌面\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.csproj.GenerateResource.Cache
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.exe
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.pdb
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.Form1.resources
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.Properties.Resources.resources
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\obj\Debug\GetAlmMsg.csproj.GenerateResource.Cache
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\bin\Debug\GetAlmMsg.exe
+C:\Documents and Settings\AWEA\My Documents\工作\focas\FOCAS2\Example\GetAlmMsg\bin\Debug\GetAlmMsg.pdb

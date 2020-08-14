@@ -1,0 +1,8 @@
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.exe
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.pdb
+E:\项目\黎阳\GetAlmMsg\bin\Debug\GetAlmMsg.exe
+E:\项目\黎阳\GetAlmMsg\bin\Debug\GetAlmMsg.pdb
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.csprojResolveAssemblyReference.cache
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.Form1.resources
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.Properties.Resources.resources
+E:\项目\黎阳\GetAlmMsg\obj\Debug\GetAlmMsg.csproj.GenerateResource.Cache

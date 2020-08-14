@@ -1,0 +1,2 @@
+E:\GetAlmMsg\CNC_PMC_FOCAS1_DEMO\obj\Debug\GetAlmMsg.exe
+E:\GetAlmMsg\CNC_PMC_FOCAS1_DEMO\obj\Debug\GetAlmMsg.pdb

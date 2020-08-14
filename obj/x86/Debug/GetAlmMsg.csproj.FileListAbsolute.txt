@@ -1,0 +1,12 @@
+E:\项目\黎阳\GetAlmMsg\bin\x86\Debug\GetAlmMsg.exe
+E:\项目\黎阳\GetAlmMsg\bin\x86\Debug\GetAlmMsg.pdb
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.Form1.resources
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.Properties.Resources.resources
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.csproj.GenerateResource.Cache
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.exe
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.pdb
+E:\项目\黎阳\GetAlmMsg\obj\x86\Debug\GetAlmMsg.csprojResolveAssemblyReference.cache
+C:\king\项目\LY\GetAlmMsg\obj\x86\Debug\GetAlmMsg.exe
+C:\king\项目\LY\GetAlmMsg\obj\x86\Debug\GetAlmMsg.pdb
+E:\GetAlmMsg\obj\x86\Debug\GetAlmMsg.exe
+E:\GetAlmMsg\obj\x86\Debug\GetAlmMsg.pdb

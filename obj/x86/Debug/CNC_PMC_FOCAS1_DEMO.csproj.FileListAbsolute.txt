@@ -1,0 +1,2 @@
+E:\GetAlmMsg\obj\x86\Debug\GetAlmMsg.exe
+E:\GetAlmMsg\obj\x86\Debug\GetAlmMsg.pdb
